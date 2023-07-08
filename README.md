@@ -3,6 +3,6 @@
 - Personal Portfolio Website HTML CSS & JavaScript.
 - Contains animations when scrolling.
 
-![preview img](/preview.png)
-Click to visit website: 
+
+Click to visit website: https://rakshita-github.github.io/Rakshita-Portfolio/
 
